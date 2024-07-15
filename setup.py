@@ -19,7 +19,6 @@ def get_requirements(file_path:str) -> List[str]:
 
 
 
-
 setup(
     name = "student-performance",
     version = "0.0.1",

@@ -4,4 +4,4 @@ test.py
 *.egg-info/
 logs
 artifacts/
-src/__pycache__/
+*__pycache__
