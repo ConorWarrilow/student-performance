@@ -2,3 +2,4 @@
 test.py
 .vscode/
 *.egg-info/
+logs
