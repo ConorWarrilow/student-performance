@@ -1,2 +1,4 @@
-venv/
+.venv-studentperformance/
 test.py
+.vscode/
+*.egg-info/
