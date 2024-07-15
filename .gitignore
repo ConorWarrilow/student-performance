@@ -3,3 +3,5 @@ test.py
 .vscode/
 *.egg-info/
 logs
+artifacts/
+src/__pycache__/
